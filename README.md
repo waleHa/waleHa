@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alwaleed Hamam
+- 👋 Hi, I’m Waleed
 - 👀 I’m interested in coding
 - 🌱 I’m a programmer
 - 💞️ I’m looking to collaborate on new projects :)
